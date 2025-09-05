@@ -21,7 +21,7 @@ body {
 	background:black;
 	background-size: cover;
 	background-position: center;
-	background-image: url('images/background-18.jpg')
+	background-image: url('background-18.jpg')
 
 }
 
@@ -478,4 +478,5 @@ nav .fa-solid {
 	color: #61b752;
 	margin-top: -40px;
 	display: block;
+
 }
